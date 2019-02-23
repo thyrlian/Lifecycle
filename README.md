@@ -38,6 +38,12 @@ A curated list of lifecycle explanation in illustration 🔁→ 🖍️🖼️
 
 “[Valid State Transitions](https://developer.apple.com/documentation/uikit/uiviewcontroller)” by [Apple Developer](https://developer.apple.com/)
 
+## iOS UIViewController Lifecycle
+
+<img src="https://github.com/thyrlian/Lifecycle/blob/master/img/ios_uiviewcontroller_lifecycle.png?raw=true">
+
+“[UIViewController Lifecycle](https://subscription.packtpub.com/book/application_development/9781783550814/6/ch06lvl1sec60/uiviewcontroller-lifecycle-methods)” by [William Smith](https://www.linkedin.com/in/swilliamsmith/)
+
 ## Android & iOS Lifecycles
 
 <img src="https://github.com/thyrlian/Lifecycle/blob/master/img/android_and_ios_lifecycles.png?raw=true">
