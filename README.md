@@ -38,6 +38,12 @@ A curated list of lifecycle explanation in illustration 🔁→ 🖍️🖼️
 
 “[Valid State Transitions](https://developer.apple.com/documentation/uikit/uiviewcontroller)” by [Apple Developer](https://developer.apple.com/)
 
+## iOS AppDelegate Methods Lifecycle
+
+<img src="https://github.com/thyrlian/Lifecycle/blob/master/img/ios_app_delegate_methods_lifecycle.png?raw=true">
+
+“[UIApplication Delegate Messaging with Multitasking](https://www.cocoanetics.com/2010/07/understanding-ios-4-backgrounding-and-delegate-messaging/)” by [Oliver Drobnik](https://github.com/odrobnik)
+
 ## iOS UIViewController Lifecycle
 
 <img src="https://github.com/thyrlian/Lifecycle/blob/master/img/ios_uiviewcontroller_lifecycle.png?raw=true">
