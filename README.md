@@ -26,6 +26,12 @@ A curated list of lifecycle explanation in illustration 🔁→ 🖍️🖼️
 
 “[The lifecycle for a service that is started and also allows binding](https://developer.android.com/guide/components/bound-services)” by [Android Developers](https://developer.android.com/)
 
+## iOS View Controller’s Views and State Transitions
+
+<img src="https://github.com/thyrlian/Lifecycle/blob/master/img/ios_valid_state_transitions.png?raw=true">
+
+“[Valid State Transitions](https://developer.apple.com/documentation/uikit/uiviewcontroller)” by [Apple Developer](https://developer.apple.com/)
+
 ## Android & iOS Lifecycles
 
 <img src="https://github.com/thyrlian/Lifecycle/blob/master/img/android_and_ios_lifecycles.png?raw=true">
