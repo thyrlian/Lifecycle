@@ -20,6 +20,12 @@ A curated list of lifecycle explanation in illustration 🔁→ 🖍️🖼️
 
 “[A simplified illustration of the activity lifecycle](https://developer.android.com/guide/components/activities/activity-lifecycle)” by [Android Developers](https://developer.android.com/)
 
+## Android Service Binding Tree Lifecycle
+
+<img src="https://github.com/thyrlian/Lifecycle/blob/master/img/android_service_binding_tree_lifecycle.png?raw=true">
+
+“[The lifecycle for a service that is started and also allows binding](https://developer.android.com/guide/components/bound-services)” by [Android Developers](https://developer.android.com/)
+
 ## Android & iOS Lifecycles
 
 <img src="https://github.com/thyrlian/Lifecycle/blob/master/img/android_and_ios_lifecycles.png?raw=true">
