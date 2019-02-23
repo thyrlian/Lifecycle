@@ -19,3 +19,11 @@ A curated list of lifecycle explanation in illustration 🔁→ 🖍️🖼️
 <img src="https://github.com/thyrlian/Lifecycle/blob/master/img/android_activity_lifecycle.png?raw=true">
 
 “[A simplified illustration of the activity lifecycle](https://developer.android.com/guide/components/activities/activity-lifecycle)” by [Android Developers](https://developer.android.com/)
+
+## Android & iOS Lifecycles
+
+<img src="https://github.com/thyrlian/Lifecycle/blob/master/img/android_and_ios_lifecycles.png?raw=true">
+
+“[iOS View controller LifeCycle from Android Activity LifeCycle](http://vardhan-justlikethat.blogspot.com/2012/03/developer-view-ios-view-controller.html)” by [Jaya Harsha Vardhan](http://vardhan-justlikethat.blogspot.com/p/about-me.html)
+
+[viewDidUnload](https://developer.apple.com/documentation/uikit/uiviewcontroller/1621383-viewdidunload) is deprecated in iOS 6.0
