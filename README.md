@@ -71,3 +71,9 @@ A curated list of lifecycle explanation in illustration 🔁→ 🖍️🖼️
 “[iOS View controller LifeCycle from Android Activity LifeCycle](http://vardhan-justlikethat.blogspot.com/2012/03/developer-view-ios-view-controller.html)” by [Jaya Harsha Vardhan](http://vardhan-justlikethat.blogspot.com/p/about-me.html)
 
 [viewDidUnload](https://developer.apple.com/documentation/uikit/uiviewcontroller/1621383-viewdidunload) is deprecated in iOS 6.0
+
+## Spring Bean Lifecycle
+
+<img src="https://github.com/thyrlian/Lifecycle/blob/master/img/spring_bean_lifecycle.png?raw=true">
+
+“[Spring Bean Lifecycle](https://www.packtpub.com/application-development/spring-50-project-building-travel-website-video)” by [Tomasz Lelek](https://github.com/tomekl007)
