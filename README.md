@@ -26,6 +26,18 @@ A curated list of lifecycle explanation in illustration 🔁→ 🖍️🖼️
 
 “[The lifecycle for a service that is started and also allows binding](https://developer.android.com/guide/components/bound-services)” by [Android Developers](https://developer.android.com/)
 
+## iOS App Launch Cycle into the Foreground
+
+<img src="https://github.com/thyrlian/Lifecycle/blob/master/img/ios_app_launch_fg.png?raw=true">
+
+“[Launching an app into the foreground](https://developer.apple.com/library/archive/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/StrategiesforHandlingAppStateTransitions/StrategiesforHandlingAppStateTransitions.html)” by [Apple Developer](https://developer.apple.com/)
+
+## iOS App Launch Cycle into the Background
+
+<img src="https://github.com/thyrlian/Lifecycle/blob/master/img/ios_app_launch_bg.png?raw=true">
+
+“[Launching an app into the background](https://developer.apple.com/library/archive/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/StrategiesforHandlingAppStateTransitions/StrategiesforHandlingAppStateTransitions.html)” by [Apple Developer](https://developer.apple.com/)
+
 ## iOS State Changes
 
 <img src="https://github.com/thyrlian/Lifecycle/blob/master/img/ios_state_changes.png?raw=true">
